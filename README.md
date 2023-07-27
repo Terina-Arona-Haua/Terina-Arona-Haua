@@ -2,7 +2,7 @@
 - I love cats, gaming and making new friendships
 - 🌱 I’m currently building up my skills in Javascript
 - 🔬 I'm also learning three.js and C#
-- 📫[Connect with me!](https://www.linkedin.com/in/terina-arona-haua/)
+- 📫 [Connect with me!](https://www.linkedin.com/in/terina-arona-haua/)
 
 <!---
 Terina-Arona-Haua/Terina-Arona-Haua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
