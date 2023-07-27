@@ -1,5 +1,5 @@
 - 👋 Hi
-- I love cats, gaming and inclusivity
+- I love cats, gaming and making new friendships
 - 🌱 I’m currently building up my skills in Javascript
 - 🔬 I'm also learning three.js and C#
 - 📫 Reach me [on Linkedin](https://www.linkedin.com/in/terina-arona-haua/)
